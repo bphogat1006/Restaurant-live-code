@@ -4,7 +4,7 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
-api_token = 'a96ea4c24f2ed992d98a421295f71dd9'
+api_token = '---------------'
 api_url_base = 'https://developers.zomato.com/api/v2.1/'
 
 headers = {
